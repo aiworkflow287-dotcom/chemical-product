@@ -6,5 +6,3 @@
     <p><a href="./catalog.pdf" target="_blank">Open the catalog (PDF)</a></p>
   </body>
 </html>
-# chemical-product
-catalog of the product 
